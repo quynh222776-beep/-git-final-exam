@@ -1,0 +1,8 @@
+Tính năng mới: Quản lý ghi chú học tập
+
+1. Cho phép người dùng thêm ghi chú học tập mỗi ngày.  
+2. Mỗi ghi chú lưu tự động vào thư mục riêng theo ngày.  
+3. Người dùng có thể chỉnh sửa hoặc xóa ghi chú cũ.  
+4. Hệ thống thống kê số ngày học liên tục.  
+5. Mục tiêu: giúp theo dõi tiến độ học hiệu quả hơn.
+
