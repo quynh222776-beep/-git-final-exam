@@ -1,0 +1,6 @@
+Đây là file tạo trực tiếp trên GitHub.
+File này dùng để kiểm tra git pull.
+Được commit bằng web editor.
+File đã được chỉnh sửa tại local.
+Cập nhật nội dung và push lên lại GitHub.
+
