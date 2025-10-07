@@ -1,1 +1,16 @@
 Giới thiệu cá nhân
+Xin chào, tôi là Nguyễn Thúy Quỳnh
+Hiện đang học tại Trường Đại học XYZ.
+Tôi yêu thích lập trình và khám phá công nghệ mới.
+Tôi luôn nỗ lực học hỏi để hoàn thiện bản thân.
+Tôi mong muốn trở thành lập trình viên giỏi trong tương lai.
+
+Sở thích:
+- Lập trình và tìm hiểu công nghệ.
+- Nghe nhạc và chơi thể thao.
+- Du lịch và chụp ảnh.
+
+Kỹ năng:
+- Thành thạo ngôn ngữ C#, Python.
+- Biết sử dụng Git và GitHub.
+- Có kỹ năng làm việc nhóm và quản lý thời gian hiệu quả.
