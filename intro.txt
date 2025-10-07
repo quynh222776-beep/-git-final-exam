@@ -1,5 +1,7 @@
 Giới thiệu cá nhân
-Hello, this is Nguyễn Thúy Quỳnh sinh viên ngành Công nghệ thông tin.
+Hello, this is Nguyễn Văn A
+Xin chào, tôi là Nguyễn Văn A
+Conflict resolved on 07/10/2025
 Hiện đang học tại Trường Đại học XYZ.
 Tôi yêu thích lập trình và khám phá công nghệ mới.
 Tôi luôn nỗ lực học hỏi để hoàn thiện bản thân.
@@ -13,4 +15,8 @@ Sở thích:
 Kỹ năng:
 - Thành thạo ngôn ngữ C#, Python.
 - Biết sử dụng Git và GitHub.
+<<<<<<< HEAD
 - Có kỹ năng làm việc nhóm và quản lý thời gian hiệu quả.
+=======
+- Có kỹ năng làm việc nhóm và quản lý thời gian hiệu quả.
+>>>>>>> feature-update
