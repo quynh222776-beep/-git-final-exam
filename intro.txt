@@ -1,1 +1,23 @@
 Giới thiệu cá nhân
+
+Tôi tên là Nguyễn Thúy Quỳnh, sinh viên ngành Công nghệ thông tin.
+Hiện đang học tại Đại học Nam Cần .
+Tôi yêu thích lập trình và khám phá công nghệ mới.
+Tôi luôn cố gắng học hỏi và hoàn thiện bản thân.
+
+Sở thích:
+- Lập trình và đọc tài liệu kỹ thuật.
+- Nghe nhạc và chơi thể thao.
+- Du lịch khám phá.
+
+Kỹ năng:
+- Lập trình C#, Python.
+- Sử dụng Git và GitHub.
+- Làm việc nhóm và quản lý thời gian.
+
+Kế hoạch học tập:
+- Ôn luyện lại toàn bộ các lệnh Git đã học.  
+- Thực hành thêm về git branch, merge và xử lý conflict.  
+- Học cách sử dụng git stash và git revert trong tình huống thực tế.  
+- Rèn luyện kỹ năng push và pull với GitHub hàng ngày.  
+- Tổng kết kiến thức và áp dụng Git vào dự án nhóm.
